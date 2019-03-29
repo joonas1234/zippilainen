@@ -1,27 +1,33 @@
 # Finnish zips and areas
 
 ## Installation
-`composer require barryvdh/laravel-dompdf`
+
 
 Register Zippilainen as an alias for easier use in config/app.php
-`'Zippilainen' => Ninjami\Zippilainen\Zippilainen::class`
+
+`'Zippilainen' => Joonas1234\Zippilainen\Zippilainen::class`
 
 
 ## Usage
 
 Get zips in specified area
+
 `Zippilainen::zipsInArea($area)`
 
 Get array of zips as keys and area as value
+
 `Zippilainen::zipsAsKeys()`
 
 Get areas with zips, optionally areas can be returned lowercase
+
 `Zippilainen::areasAndZips($bool)`
 
 Get only areas, optionally lowercase
+
 `Zippilainen::areas($bool)`
 
 Get area by zip
+
 `Zippilainen::areaByZip($zip)`
 
 
