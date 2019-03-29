@@ -1,6 +1,6 @@
 <?php
 
-namespace Ninjami\Zippilainen;
+namespace Joonas1234\Zippilainen;
 
 use Illuminate\Support\ServiceProvider;
 

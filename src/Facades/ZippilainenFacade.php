@@ -1,6 +1,6 @@
 <?php
 
-namespace Ninjami\Zippilainen\Facades;
+namespace Joonas1234\Zippilainen\Facades;
 
 use \Illuminate\Support\Facades\Facade;
 
