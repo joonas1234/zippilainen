@@ -1,7 +1,7 @@
 {
     "name": "joonas1234/zippilainen",
     "description": "Zips and areas of finland",
-    "type": "composer-plugin",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
