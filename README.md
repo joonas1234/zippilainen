@@ -5,7 +5,7 @@
 
 Register Zippilainen as an alias for easier use in config/app.php
 
-`'Zippilainen' => Joonas1234\Zippilainen\Zippilainen::class`
+`'Zippilainen' => joonas1234\Zippilainen\Zippilainen::class`
 
 
 ## Usage
