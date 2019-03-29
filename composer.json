@@ -1,0 +1,13 @@
+{
+    "name": "ninjami/zippilainen",
+    "description": "Zips and areas of finland",
+    "type": "composer-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Joonas Kämäräinen",
+            "email": "joonas@ninjami.com"
+        }
+    ],
+    "require": {}
+}
