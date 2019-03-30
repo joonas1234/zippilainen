@@ -9,5 +9,18 @@
             "email": "joonas@ninjami.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "classmap": [ "src/" ]
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Joonas1234\\Zippilainen\\ZippilainenServiceProvider"
+            ],
+            "aliases": {
+                "Zippilainen": "Joonas1234\\Zippilainen\\Facades\\ZippilainenFacade"
+            }
+        }
+    },
 }
